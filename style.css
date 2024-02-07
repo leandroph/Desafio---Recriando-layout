@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+}
+
+#hero {
+    width: 592px;
+    margin: 0px auto 72px;
+}
+
+#hero img {
+    margin-top: 64px;
+}
+
+h1 {
+    font-family: 'Dosis', sans-serif;
+    font-size: 32px;
+}
+
+h1 span {
+    font-weight: bolder;
+    color: #EE24FF;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    margin: 0;
+}
